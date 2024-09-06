@@ -17,13 +17,6 @@ hero:
     - theme: alt
       text: Гайды
       link: /guides
-
-features:
-  - title: Регуляции
-    details: Всё о том как легально летать
-  - title: Магазины
-    details: Список магазинов с оборудованием
-  - title: Места
-    details: Карта запретов и спотов
 ---
 
+![An image](./public/images/logo.jpg)
