@@ -11,7 +11,8 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'На главную', link: '/' }
+      { text: 'На главную', link: '/' },
+      { text: 'Наш чат в Telegram', link: 'https://t.me/fpvcyprus' }
     ],
 
     sidebar: [

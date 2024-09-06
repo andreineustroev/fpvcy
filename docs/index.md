@@ -19,6 +19,4 @@ hero:
       link: /guides
 ---
 
-[FPV чат в Telegram](https://t.me/fpvcyprus)
-
 ![An image](./public/images/logo.jpg)
