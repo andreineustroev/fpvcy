@@ -19,4 +19,4 @@ hero:
       link: /guides
 ---
 
-![An image](./public/images/logo.jpg)
+![An image](/images/logo.jpg)
