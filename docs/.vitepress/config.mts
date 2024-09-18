@@ -6,11 +6,15 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "FPV Cyprus WiKi",
   description: "FPV Cyprus community wiki",
+  head: [
+      ["link", { rel: "icon", type: "image/x-icon", href: "/favicon.svg" }],
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'На главную', link: '/' }
     ],
+    logo: "/favicon.svg",
     editLink: {
       pattern: "https://github.com/andreineustroev/fpvcy/edit/main/docs/:path",
       text: "Редактировать эту страницу на GitHub",
