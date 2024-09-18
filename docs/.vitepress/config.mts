@@ -11,7 +11,10 @@ export default defineConfig({
     nav: [
       { text: 'На главную', link: '/' }
     ],
-
+    editLink: {
+      pattern: "https://github.com/andreineustroev/fpvcy/edit/main/docs/:path",
+      text: "Редактировать эту страницу на GitHub",
+    },
     sidebar: [
       {
         text: 'Важное',
