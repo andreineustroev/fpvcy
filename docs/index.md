@@ -6,14 +6,8 @@ hero:
   text: "FPV Cyprus community wiki"
   actions:
     - theme: brand
-      text: Регуляции
+      text: Важная информация
       link: /legal
-    - theme: alt
-      text: Магазины
-      link: /stores
-    - theme: alt
-      text: Карта спотов
-      link: /map
     - theme: alt
       text: Гайды
       link: /guides
