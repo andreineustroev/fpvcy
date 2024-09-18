@@ -4,8 +4,6 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/fpvcy/',
-
   title: "FPV Cyprus WiKi",
   description: "FPV Cyprus community wiki",
   themeConfig: {
