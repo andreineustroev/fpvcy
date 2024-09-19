@@ -26,7 +26,7 @@ export default defineConfig({
           { text: 'Регуляции', link: '/legal' },
           { text: 'Магазины', link: '/stores' },
           { text: 'Карта', link: '/map' },
-          { text: 'GPS спуффинг', link: '/gps-spoofing' },
+          { text: 'GPS спуфинг', link: '/gps-spoofing' },
         ]
       },
       {
