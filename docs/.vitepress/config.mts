@@ -50,6 +50,6 @@ export default defineConfig({
     ]
   },
   sitemap: {
-    hostname: 'https://example.com'
+    hostname: 'https://fpvcy.com'
   }
 })
