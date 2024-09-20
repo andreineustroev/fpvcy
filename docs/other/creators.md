@@ -4,6 +4,7 @@
 
 * [youtube](https://www.youtube.com/@SkiptaFPV)
 * [instagram](https://www.instagram.com/skipta_fpv/)
+* [tik-tok](https://www.tiktok.com/@skiptafpv)
 
 ## Sunnyfpv
 
