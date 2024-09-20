@@ -28,6 +28,7 @@ export default defineConfig({
           { text: 'Магазины', link: '/stores' },
           { text: 'Карта', link: '/map' },
           { text: 'GPS спуфинг', link: '/gps-spoofing' },
+          { text: 'Совместные полёты', link: '/how-to-fly-together' },
         ]
       },
       {
@@ -35,6 +36,13 @@ export default defineConfig({
         items: [
           { text: 'Как покупать LiPo', link: '/guides/lipo-transfer' },
           { text: 'Как летать с LiPo', link: '/guides/lipo-flight' },
+        ]
+      },
+      {
+        text: 'Прочее',
+        items: [
+          { text: 'Видео полётов', link: '/other/creators' },
+          { text: 'О сайте', link: '/other/about' },
         ]
       }
     ],
