@@ -48,5 +48,8 @@ export default defineConfig({
         link: "https://t.me/fpvcyprus",
       },
     ]
+  },
+  sitemap: {
+    hostname: 'https://example.com'
   }
 })
