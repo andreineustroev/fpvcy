@@ -8,6 +8,7 @@ export default defineConfig({
   description: "FPV Cyprus community wiki",
   head: [
       ["link", { rel: "icon", type: "image/x-icon", href: "/favicon.svg" }],
+      ["meta", { name: "google-site-verification", content: "IL6cbU7y0Jwf2HW2WpS03ZSyNyTTW6nqZq8kp7Ovmhk" }],
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
