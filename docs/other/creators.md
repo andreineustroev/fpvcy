@@ -48,12 +48,12 @@
 
 ## GeorgerFPV
 
-*покинул нас =(*
+*покинул Кипр =(*
 
 * [youtube](https://www.youtube.com/@georgerFPV)
 
 ## Mark Mark
 
-*покинул нас =(*
+*покинул Кипр =(*
 
 * [youtube](https://www.youtube.com/@728239)
