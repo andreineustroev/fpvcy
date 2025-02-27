@@ -26,12 +26,12 @@ Radiomaster Boxer(**ELRS 2.4GHz**) -
 
   
 Подключаем ее к компу и осваиваем дрон в симуляторе. На выбор есть ранзные. Почти все есть в Стиме. Самые популярные:
-* Liftoff
-* Liftoff Microdrones
-* Tryp
-* Uncrashed
-* DRL
-* Velocodrone (нет в стиме)
+* **Liftoff**
+* **Liftoff Microdrones**
+* **Tryp**
+* **Uncrashed**
+* **DRL**
+* **Velocodrone** (нет в стиме)
 
 Желательно налетать в симуляторе часов 5-10 прежде чем переходить к настоящим дронам.
 Паралельно освоить базовые знания по дронам. Из чего состоят, типы видео-радио связи, размеры дронов, типы и размеры батареек, как их заряжать и хранить.
@@ -43,9 +43,11 @@ Radiomaster Boxer(**ELRS 2.4GHz**) -
 Можно летать как в помещении так и на улице в безветренную погоду. По ним проводятся соревнования. Так же в Лимассоле у нас есть Вуп Клуб, где мы учимся и летаем на таких дронах.
 
 Топ дронов:
-* BetaFPV Air 65, BetaFPV Air 75
-* Happymodel Mobula 6 2024, Happymodel Mobula 7
-* HummingBird V3 Analog
+* **BetaFPV Air 65**
+* **BetaFPV Air 75**
+* **Happymodel Mobula 6 2024**
+* **Happymodel Mobula 7**
+* **HummingBird V3 Analog**
 
 Смотреть на этих сайтах. Сайты в порядке удобства заказа на Кипр:
 * [Tytowiew.com](https://tytoview.com/collections/tiny-whoops-and-parts)
@@ -58,8 +60,8 @@ Radiomaster Boxer(**ELRS 2.4GHz**) -
 Мелкие батки(дроны Air 65,Mobula 6, HummingBird V3) - 260-300mAh
 Крупные - 450-550mAh
 Коннекторы бывают:
-* BT2.0 (совместмы с A30)
-* PH2.0 (не рекомендуется)
+* **BT2.0** (совместмы с A30)
+* **PH2.0** (не рекомендуется)
 
 Батарейки на Кипре достать сложнее. Есть несколько вариантов:
 * [Tytoview.com](https://tytoview.com/collections/batteries-and-chargers)
