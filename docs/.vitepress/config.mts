@@ -34,6 +34,7 @@ export default defineConfig({
       {
         text: 'Гайды',
         items: [
+          { text: 'Начало', link: '/guides/newbee' },
           { text: 'Первый полёт', link: '/guides/first-flight' },
           { text: 'Как покупать LiPo', link: '/guides/lipo-transfer' },
           { text: 'Как перевозить LiPo', link: '/guides/lipo-flight' },
