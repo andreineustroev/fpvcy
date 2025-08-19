@@ -38,13 +38,13 @@ export default defineConfig({
           { text: 'Первый полёт', link: '/guides/first-flight' },
           { text: 'Как покупать LiPo', link: '/guides/lipo-transfer' },
           { text: 'Как перевозить LiPo', link: '/guides/lipo-flight' },
+          { text: 'Утилизация акумов', link: '/guides/lipo-disposal'},
         ]
       },
       {
         text: 'Прочее',
         items: [
-          { text: 'Видео полётов', link: '/other/creators' },
-          { text: 'О сайте', link: '/other/about' },
+          { text: 'Видео полётов', link: '/other/creators' }
         ]
       }
     ],
