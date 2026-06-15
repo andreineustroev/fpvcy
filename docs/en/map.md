@@ -1,7 +1,7 @@
 # Map
 
 ::: danger
-Information about no-fly zones may be outdated — please verify it here
+Information about no-fly zones may be outdated — please verify it [here](https://drones.gov.cy/geo-zones-map/)
 :::
 
 Before planning any flight, always check the official Cyprus UAS geo-zones map and current restrictions. No-fly and restricted areas can change frequently due to temporary airspace restrictions, military activity, or airport operations.
