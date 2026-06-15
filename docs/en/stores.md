@@ -1,7 +1,7 @@
 # Магазины
 
 
-| Сайт                                                  | Delivery time (days) | Li* Shipping | Country    | Tax | Notes                                                 |
+| Website                                               | Delivery time (days) | Li* Shipping | Country    | Tax | Notes                                                 |
 | ----------------------------------------------------- | ---------------------| ------------ | ---------- | ----| ----------------------------------------------------- |
 | [drone-fpv-racer.com](http://drone-fpv-racer.com/en)  | 3-5                  | ❌           | France     | ❎  |                                                       |
 | [n-factory.de](http://n-factory.de/)                  | 10-14                | ✅           | Germany    | ❎  | to ship batteries, choose DHL delivery                |
